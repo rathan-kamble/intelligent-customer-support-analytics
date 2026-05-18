@@ -1,0 +1,26 @@
+{
+  "models": [
+    {
+      "name": "RandomForest_Multiclass",
+      "version": "1.0",
+      "accuracy": 0.697350069735007,
+      "f1_score": 0.6943116623819194,
+      "status": "Staging"
+    },
+    {
+      "name": "GBT_Binary",
+      "version": "1.0",
+      "accuracy": 0.99721059972106,
+      "f1_score": 0.9972118338509007,
+      "auc_roc": 0.9998164844809703,
+      "status": "Production"
+    },
+    {
+      "name": "RAG_Pipeline",
+      "version": "1.0",
+      "embedding_model": "all-MiniLM-L6-v2",
+      "llm": "gpt-3.5-turbo",
+      "status": "Production"
+    }
+  ]
+}

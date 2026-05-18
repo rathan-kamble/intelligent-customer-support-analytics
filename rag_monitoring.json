@@ -1,0 +1,37 @@
+[
+  {
+    "timestamp": "2026-05-18 01:52:49",
+    "question": "How do I get a refund for a defective product?",
+    "answer_length": 415,
+    "relevance_score": 0.88,
+    "flagged": false
+  },
+  {
+    "timestamp": "2026-05-18 01:52:49",
+    "question": "My ProductA is showing error code E101, what should I do?",
+    "answer_length": 129,
+    "relevance_score": 0.88,
+    "flagged": false
+  },
+  {
+    "timestamp": "2026-05-18 01:52:49",
+    "question": "When should a ticket be escalated to engineering?",
+    "answer_length": 142,
+    "relevance_score": 0.0,
+    "flagged": true
+  },
+  {
+    "timestamp": "2026-05-18 01:52:49",
+    "question": "How long is the warranty for ProductB?",
+    "answer_length": 63,
+    "relevance_score": 0.75,
+    "flagged": false
+  },
+  {
+    "timestamp": "2026-05-18 01:52:49",
+    "question": "How do I reset my password?",
+    "answer_length": 137,
+    "relevance_score": 1.0,
+    "flagged": false
+  }
+]
